@@ -1,0 +1,2 @@
+simple version of the find shell command:
+SYNOPSIS: ./myfind [option] directory [expressions]
